@@ -1,0 +1,24 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+/* .main-menu .navbar{
+    background-color: aqua;
+}
+.main-menu .navbar .nav .nav-item .nav-link{
+    color: red;
+} */
+
+.main-slider{
+    padding: 20px;
+}
+
+.main-slider .carousel .carousel-inner .carousel-item img{
+    width: 20%;
+}
+
+
+.wrapper .box{
+    height: 200px;
+}
